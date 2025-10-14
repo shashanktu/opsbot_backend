@@ -2,7 +2,7 @@
   "version": 2,
   "builds": [
     {
-      "src": "lightweight_api.py",
+      "src": "api.py",
       "use": "@vercel/python"
     }
   ],
