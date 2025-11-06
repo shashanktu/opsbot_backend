@@ -6,3 +6,6 @@ requests
 uvicorn
 langchain_google_genai
 pandas
+langchain
+langchain-core
+langchain-openai
