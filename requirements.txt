@@ -23,7 +23,7 @@ google-api-core
 google-api-python-client
 google-auth
 google-auth-httplib2
-langchain_google_genai
+
 googleapis-common-protos
 greenlet
 grpcio
@@ -38,11 +38,12 @@ imageio
 Jinja2
 jsonpatch
 jsonpointer
-langchain-classic
-langchain-community
+langchain
 langchain-core
-langchain-google-genai
+langchain-community
+langchain-google-gena
 langchain-text-splitters
+
 langsmith
 lazy_loader
 lxml
