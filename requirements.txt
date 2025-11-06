@@ -41,7 +41,7 @@ jsonpointer
 langchain
 langchain-core
 langchain-community
-langchain-google-gena
+langchain-google-genai
 langchain-text-splitters
 
 langsmith
