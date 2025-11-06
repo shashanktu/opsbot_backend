@@ -17,7 +17,8 @@ filelock
 filetype
 frozenlist
 fsspec
-google-ai-generativelanguage
+
+google.generativeai
 google-api-core
 google-api-python-client
 google-auth
