@@ -17,13 +17,11 @@ filelock
 filetype
 frozenlist
 fsspec
-
-google.generativeai
+google-generativeai
 google-api-core
 google-api-python-client
 google-auth
 google-auth-httplib2
-
 googleapis-common-protos
 greenlet
 grpcio
@@ -43,7 +41,6 @@ langchain-core
 langchain-community
 langchain-google-genai
 langchain-text-splitters
-
 langsmith
 lazy_loader
 lxml
@@ -54,7 +51,7 @@ multidict
 mypy_extensions
 networkx
 ninja
-numpy
+numpy<2.0.0
 opencv-python-headless
 openpyxl
 orjson
@@ -77,7 +74,7 @@ python-dateutil
 python-docx
 python-dotenv
 pytz
-PyYAML
+PyYAML>=6.0.1
 requests
 requests-toolbelt
 rsa
